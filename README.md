@@ -1,5 +1,5 @@
 # TNSDC-Generative-AI
-Plant_Disease_Classification
+**Plant_Disease_Classification**
 
 The dataset is taken from kaggle and the link for the dataset is given:
 [https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset] 
